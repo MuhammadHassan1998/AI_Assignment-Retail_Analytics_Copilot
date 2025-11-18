@@ -1,0 +1,17 @@
+# Python / tooling
+__pycache__/
+*.py[cod]
+.Python
+# Virtual environments
+venv/
+.venv/
+# Editor files
+.DS_Store
+.idea/
+# Local data / artifacts
+data/northwind.sqlite
+outputs_hybrid.jsonl
+*.log (edited) 
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
