@@ -1,0 +1,15 @@
+# Python / tooling
+__pycache__/
+*.py[cod]
+.Python
+# Virtual environments
+venv/
+.venv/
+# Editor files
+.DS_Store
+.idea/
+.vscode/
+# Local data / artifacts
+data/northwind.sqlite
+outputs_hybrid.jsonl
+*.log (edited) 
